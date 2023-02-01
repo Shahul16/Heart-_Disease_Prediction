@@ -1,4 +1,4 @@
-# Heart-_Disease_Prediction
+# Heart_Disease_Prediction
 This Repository Contain  My Machine Learning/Deep Learning project
 
 ## Instruction
